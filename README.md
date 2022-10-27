@@ -1,8 +1,8 @@
 ## **Guess the City Game**
 
-The objective of [Guess the City Game](https://bernadetteestacio.site/projects/guess-city-game/) is to guess the randomly selected city in the US. The player is given 6 tries to guess a letter. Then, the player has to guess the word.
+The objective of [Guess the City Game](https://guess-the-city-game-app.vercel.app/) is to guess the randomly selected city in the US. The player is given 6 tries to guess a letter. Then, the player has to guess the word.
 
-![Guess the City Game](https://bernadetteestacio.site/assets/img/portfolio/guess-the-city.png)
+![Guess the City Game](https://github.com/bernadette-codes/Bernadettecodes/blob/master/src/assets/img/portfolio/guess-the-city.png?raw=true)
 
 - Single-page, responsive web app programmed with React
 
