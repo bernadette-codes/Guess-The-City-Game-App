@@ -5,7 +5,7 @@ const Nav = () => (
   <nav>
     <button>
       <a
-        href="https://bernadetteestacio.site/"
+        href="https://bernadettecodes.vercel.app/"
         target="_blank"
         rel="noopener noreferrer"
       >
